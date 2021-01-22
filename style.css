@@ -79,3 +79,17 @@ img:hover{
 html{
     scroll-behavior: smooth;
 }
+#contact{
+    background: firebrick;
+    
+}
+#contact iframe{
+    width:100%;
+    
+}
+.contact1 h3{
+   display: inline; 
+}
+.contact1 a{
+    color: white;
+}
